@@ -1,0 +1,5 @@
+1. Create a array of size 9
+
+2. At each index store the occurrence count of the respective integers. Doing this will achieve this sorting with time complexity of Big O(n) and even the memory requirements are minimized.
+
+3. In Order to print the output just traverse the above created array.
